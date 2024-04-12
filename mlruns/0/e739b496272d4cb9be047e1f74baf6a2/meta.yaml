@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Aj/streamlit_app/mlflow/mlruns/0/e739b496272d4cb9be047e1f74baf6a2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e739b496272d4cb9be047e1f74baf6a2
+run_name: resilient-kit-253
+run_uuid: e739b496272d4cb9be047e1f74baf6a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712912045171
+status: 1
+tags: []
+user_id: ajverma
