@@ -1,2 +1,5 @@
 #use activate dash environment
+'''
+mlflow ui : it will show in FE, run it in terminal
+'''
 mlflow
